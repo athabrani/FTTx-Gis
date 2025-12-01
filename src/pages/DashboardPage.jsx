@@ -114,7 +114,7 @@ export default function DashboardPage() {
           <div className="flex items-center gap-2 rounded-full border border-fttx-border bg-slate-950/70 px-3 py-1.5 text-[11px] text-slate-300 shadow-sm">
             <BoltIcon className="h-3.5 w-3.5 text-emerald-400" />
             <span>
-              Mode demo • gunakan menu{" "}
+              gunakan menu{" "}
               <span className="font-semibold text-sky-400">Perencanaan Jalur</span>{" "}
               untuk menggambar rute baru
             </span>
@@ -373,7 +373,7 @@ export default function DashboardPage() {
         {/* Footer ringan */}
         <div className="mt-2 flex items-center justify-between border-t border-slate-800 pt-2 text-[10px] text-slate-500">
           <span>
-            FTTx GIS Planner • Cesium + React • Prototype dashboard
+            FTTx GIS Planner 
           </span>
           <span>
             Tips: gunakan halaman Perencanaan Jalur untuk update data di
